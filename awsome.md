@@ -98,7 +98,7 @@ const API_KEY = 'ENTER YOUR API';
   - [ ] Chinese
   - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/zalbani-lab/README-Template/issues) for a full list of proposed features (and known issues).
 
 ## 📝 License <a name = "license"></a>
 

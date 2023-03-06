@@ -91,13 +91,14 @@ const API_KEY = 'ENTER YOUR API';
 ### 🚀 Deployment
 
 1. Build
-Build project for production. Will generate `/public` folder
+   Build project for production. Will generate `/public` folder
 
 ```sh
 $ npm generate
 ```
 
 2. Preview (optional)
+
 ```sh
 $ npm preview
 ```
@@ -152,8 +153,6 @@ $ php bin/console doctrine:migrations:migrate
 See the [open issues](https://github.com/zalbani-lab/README-Template/issues) for a full list of proposed features (and known issues).
 
 ## 📝 License <a name = "license"></a>
-
-Describe your License for your project.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
